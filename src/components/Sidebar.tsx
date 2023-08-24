@@ -14,11 +14,6 @@ const menuItems = [
     label: 'Dashboard',
   },
   {
-    key: '/account',
-    icon: <UserOutlined />,
-    label: 'Người dùng',
-  },
-  {
     key: '/collection',
     icon: <DropboxCircleFilled />,
     label: 'Bộ sưu tập',
